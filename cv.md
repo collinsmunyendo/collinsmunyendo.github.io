@@ -30,10 +30,11 @@ __Security Consultant__, Silensec
 - Developing security training material for employees as well as external customers on cyberranges.
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Graduate Teaching Assistant__, Carnegie Mellon University
 
-- Task
-- Task
+- Providing in-class support for First Year Seminar, Practicum and Linux Programming courses.
+- Supporting and helping students complete assignments.
+- Grading and providing feedback to students.
 
 
 
