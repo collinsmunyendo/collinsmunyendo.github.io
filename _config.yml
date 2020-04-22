@@ -8,11 +8,11 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Collins Munyendo
   avatar: bio-photo.jpg
-  bio: "This is my personal website"
+  bio: "Security Analyst & Researcher"
   email: cmunyendo@gwu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: collinsmunyendo
-  linkedin: #collinsmunyendo
+  linkedin: in/collinsmunyendo
   github: collinsmunyendo
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
