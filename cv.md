@@ -1,7 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
 
 Incoming Ph.D student at [The George Washington University](https://www.gwu.edu/).
 
