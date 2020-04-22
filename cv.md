@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Incoming Ph.D student at [The George Washington University](https://gwu.edu).
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2017 - 2019`
+__Carnegie Mellon University__
+Masters of Science in Information Technology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2016`
+__Strathmore University__
+Bachelor of Business Information Technology 
 
 ## Awards
 
