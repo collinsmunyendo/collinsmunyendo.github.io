@@ -8,4 +8,4 @@ I am currently a Security Consultant at [Silensec](https://silensec.com) where I
 
 Prior to Silensec, I was a Software Engineer at [TeleTracking Technologies](https://www.teletracking.com/) where I worked in a team to research and improve patient flow in Rwanda's healthcare system.
 
-I have also worked as a Network Engineer at [Kenya Web Limited](https://www.kenyaweb.com/) where I set up and configured networks for customers. I also provided technical suppor to the customers.
+I have also worked as a Network Engineer at [Kenya Web Limited](https://www.kenyaweb.com/) where I set up and configured networks for customers. I also provided technical support to the customers.
