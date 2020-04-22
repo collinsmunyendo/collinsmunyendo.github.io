@@ -2,9 +2,9 @@
 layout: resume
 ---
 
-Incoming Ph.D student at [The George Washington University](https://www.gwu.edu/).
-
 ## Education
+
+Incoming Ph.D student at [The George Washington University](https://www.gwu.edu/).
 
 `2017 - 2019`
 __Carnegie Mellon University__
