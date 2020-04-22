@@ -3,10 +3,12 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am an incoming Ph.D student at the [Usable Security and Privacy Lab](http://gwusec.org/), School of Engineering and Applied Science, [The George Washington University](https://gwu.edu), advised by [Adam Aviv](https://adamaviv.com/). My research interests lie in security and privacy, particularly in underrepresented communities.
 
-## Current Interests and Projects:
+Prior to joining GW, I obtained my master's degree in Information Technology from [Carnegie Mellon University](https://cmu.edu). I have bachelor's degree in Information Technology from [Strathmore University](https://strathmore.edu).
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+## Activities & Interests:
+
+- Mentor and Trainer, Django Girls Kigali
+- HashiConf Scholar, 2019
+- Devcon V Scholar, 2019
