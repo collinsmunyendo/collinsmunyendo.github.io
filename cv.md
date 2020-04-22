@@ -9,16 +9,16 @@ Incoming Ph.D student at [The George Washington University](https://www.gwu.edu/
 
 `2017 - 2019`
 __Carnegie Mellon University__
-Masters of Science in Information Technology
+Masters of Science in Information Technology.
 
 `2012 - 2016`
 __Strathmore University__
-Bachelor of Business Information Technology 
+Bachelor of Business Information Technology. 
 
 ## Awards
 
 `2014 - 2016`
-Deans List, Strathmore University 
+Deans List, Strathmore University. 
 
 ## Occupation
 
@@ -40,6 +40,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2020 -->
 
 
