@@ -17,43 +17,18 @@ Bachelor of Business Information Technology
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+`2014 - 2016`
+Deans List, Strathmore University 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Security Consultant__, Silensec
 
-- Task
-- Task
+- Monitoring security events received through alerts from SIEM, log collectors and other security tools.
+- Revising alerts escalated by clients and carrying out level 1 triage of incoming issues.
+- Prioritizing events and initial determination of potential risk associated with occurrence of the events.
+- Developing security training material for employees as well as external customers on cyberranges.
 
 `1994-1996`
 __Current Job Title__, Current Employer 
