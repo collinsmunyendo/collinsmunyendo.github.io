@@ -18,3 +18,5 @@ My top 3 destinations for the future are:
 1. Maldives
 2. Barbados
 3. Argentina
+
+""You miss 100% of the shots you don't take" - Wayne Gretzky" - Michael Scott
