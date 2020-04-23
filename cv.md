@@ -23,7 +23,6 @@ __Security Consultant__, Silensec
 - Monitoring security events received from security tools.
 - Revising alerts escalated by clients and triaging incoming issues.
 - Prioritizing events and determination of their potential risk.
-- Developing security training material on Cyberranges.
 
 `Aug 2018 - Aug 2019`
 __Graduate Teaching Assistant__, Carnegie Mellon University
