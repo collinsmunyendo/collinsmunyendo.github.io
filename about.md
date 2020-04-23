@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What have I been up to?"
+title: "Background"
 excerpt: "About"
 ---
 
@@ -9,3 +9,5 @@ I am currently a Security Consultant at [Silensec](https://silensec.com) where I
 Prior to Silensec, I was a Software Engineer at [TeleTracking Technologies](https://www.teletracking.com/) where I worked in a team to research and improve patient flow in Rwanda's healthcare system.
 
 I have also worked as a Network Engineer at [Kenya Web Limited](https://www.kenyaweb.com/) where I set up and configured networks for customers. I also provided technical support to the customers.
+
+Outside of professional work, I am very involved in initiatives that introduce technology to underrepresented communities. I am a mentor and trainer to Django Girls Kigali where we introduce programming to young girls in Rwanda. I am also an ambassador and leader at Nipe Sauti Africa where we support and mentor vulnerable groups in Kenya.
