@@ -3,4 +3,4 @@ layout: page
 title: All Blog Posts
 ---
 
-Coming soon.
+Thanks for stopping by. This is work in progress. Check back again after a couple of weeks :)
