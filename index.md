@@ -12,3 +12,4 @@ Prior to joining GW, I obtained my master's degree in Information Technology fro
 - Mentor and Trainer, Django Girls Kigali
 - HashiConf Scholar, 2019
 - Devcon V Scholar, 2019
+- Ambassador, Nipe Sauti Africa
