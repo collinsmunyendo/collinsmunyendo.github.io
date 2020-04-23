@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Personal
-excerpt: "What are the fun things I do outside work?"
+title: "What are the fun things I do outside work?"
+excerpt: Personal
 ---
 
 Coming soon.
