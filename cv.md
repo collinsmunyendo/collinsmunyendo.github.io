@@ -42,6 +42,19 @@ __Software Engineer__, TeleTracking Technologies
 - Researched challenges and solutions to the healthcare in Rwanda.
 - Developed a scheduling application to improve patient flow in Rwanda.
 
+`Nov 2016 - Apr 2017`
+__Technical Sales Representative__, Triple S Solutions
+
+- Designed bio-metric security solutions for both new and existing customers.
+- Offered technical customer support to customers.
+
+`Mar 2015 - Jun 2015`
+__Network Engineer__, Kenya Web Limited
+
+- Fixed network connectivity problems for over 50 customers.
+- Set up new wireless networks for customers.
+- Revamped faulty computers in the technical department.
+
 <!-- ### Footer
 
 Last updated: April 2020 -->
