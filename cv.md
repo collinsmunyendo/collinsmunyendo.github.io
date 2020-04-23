@@ -19,24 +19,28 @@ Bachelor of Business Information Technology.
 `2014 - 2016`
 Deans List, Strathmore University. 
 
-## Occupation
+## Key Experience
 
 `Current`
 __Security Consultant__, Silensec
 
 - Monitoring security events received from security tools.
 - Revising alerts escalated by clients and triaging incoming issues.
-- Prioritizing events and determination of their associated potential risk.
+- Prioritizing events and determination of their potential risk.
 - Developing security training material on Cyberranges.
 
-`1994-1996`
+`Aug 2018 - Aug 2019`
 __Graduate Teaching Assistant__, Carnegie Mellon University
 
-- Providing in-class support for First Year Seminar and Linux Programming courses.
+- Providing in-class support for Seminar and Linux Programming courses.
 - Supporting and helping students complete assignments.
 - Grading and providing feedback to students.
 
+`May 2018 - Aug 2018`
+__Software Engineer__, TeleTracking Technologies
 
+- Researched challenges and solutions to the healthcare in Rwanda.
+- Developed a scheduling application to improve patient flow in Rwanda.
 
 <!-- ### Footer
 
