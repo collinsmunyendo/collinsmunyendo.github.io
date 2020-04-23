@@ -2,6 +2,12 @@
 layout: resume
 ---
 ## Summary
+I am a security analyst and researcher with professional experience in network administration, software
+engineering and cybersecurity. I enable organizations secure their digital assets as well as develop software
+solutions that add value to their operations. I am experienced in leveraging open source tools such as OSSIM
+to secure organizations’ networks as well as developing solutions to improve patient flow and support
+refugees in Africa. I am currently interested in studying user security behavior in marginalized groups to improve
+security design.
 
 ## Education
 Incoming Ph.D student at [The George Washington University](https://www.gwu.edu/).
