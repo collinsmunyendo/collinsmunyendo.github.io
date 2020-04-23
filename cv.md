@@ -19,10 +19,10 @@ Bachelor of Business Information Technology.
 
 ## Awards
 `2014 - 2016`
-Deans List, Strathmore University.
+- Deans List, Strathmore University.
 
 `2020 - 2021`
-Graduate Fellowship, The George Washington University.
+- Graduate Fellowship, The George Washington University.
 
 ## Key Experience
 `Current`
