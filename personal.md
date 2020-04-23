@@ -6,7 +6,7 @@ excerpt: Personal
 
 "You miss 100% of the shots you don't take" - Wayne Gretzky
 
-I play hard as much as I work hard. I play football and love swimming. I am also an avid [Chelsea FC](https://www.chelseafc.com/en) fan.
+I play just as hard as I work. I play football and love swimming. I am also an avid [Chelsea FC](https://www.chelseafc.com/en) fan. Friends and The Office are the greatest ever SitComs :)
 
 I love travelling. Some of the countries I have been to in no particular order are:
 1. Kenya
