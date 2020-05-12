@@ -9,7 +9,7 @@ You miss 100% of the shots you don't take - Wayne Gretzky
 I play just as hard as I work. I love playing football and swimming. I am also an avid [Chelsea FC](https://www.chelseafc.com/en) fan. The Office and Friends are the greatest ever SitComs :)
 
 I love travelling. Some of the countries I have been to so far are:
-1. __Kenya__ - Nairobi, Kisumu, Mombasa, Kakamega, Bungoma, Nyeri, Embu, Machakos, Uasin Gishu, Nandi
+1. __Kenya__ - Nairobi, Kisumu, Mombasa, Kakamega, Bungoma, Nyeri, Embu, Machakos, Uasin Gishu, Nandi, Kiambu, Nakuru, Vihiga, Kitui, Baringo, Kajiado
 2. __Rwanda__ - Kigali, Gisenyi, Nyungwe
 3. __France__ - Paris
 4. __Germany__ - Saarbrücken
