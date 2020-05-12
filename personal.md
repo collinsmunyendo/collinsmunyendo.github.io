@@ -17,4 +17,4 @@ I love travelling. Some of the countries I have been to in no particular order a
 6. United States
 7. United Arab Emirates
 
-My top 3 destinations for the future are Barbados, Maldives and Argentina.Hit me up with those random travel plans :)
+My top 3 destinations for the future are Barbados, Maldives and Argentina. Feel free to hit me up with those random travel plans :)
