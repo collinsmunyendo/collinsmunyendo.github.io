@@ -55,6 +55,6 @@ __Network Engineer__, Kenya Web Limited
 
 
 
-__Last updated: April 2020__
+Last updated: April 2020
 
 
