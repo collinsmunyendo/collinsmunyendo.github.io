@@ -53,8 +53,8 @@ __Network Engineer__, Kenya Web Limited
 - Set up new wireless networks for customers.
 - Revamped faulty computers in the technical department.
 
-<!-- Footer
 
-Last updated: April 2020 -->
+
+Last updated: April 2020
 
 
