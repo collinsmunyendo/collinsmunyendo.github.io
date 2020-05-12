@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Collins W. Munyendo
+title: Collins Munyendo
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Collins W. Munyendo
+  name: Collins Munyendo
   avatar: bio-photo.jpg
   bio: "Security Analyst & Researcher"
   email: cmunyendo@gwu.edu
