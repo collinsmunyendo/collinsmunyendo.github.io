@@ -2,7 +2,7 @@
 layout: resume
 ---
 ## Summary
-I am a security analyst with professional experience in network administration, software engineering and cybersecurity. I enable organizations secure their digital assets and have vast experience leveraging open source tools such as OSSIM to secure organizations’ networks as well as developing solutions to improve patient flow and support refugees in Africa. I am currently interested in studying user security behavior in marginalized groups to improve security design. Also keen on blockchain for social impact.
+I am a security analyst with professional experience in cybersecurity, network administration and software engineering. I enable organizations secure their digital assets and have vast experience leveraging open source tools such as OSSIM to secure organizations’ networks as well as developing solutions to improve livelihoods in Africa. I am currently interested in studying user security behavior in marginalized groups to improve security design. Also keen on blockchain for social impact.
 
 ## Education
 `2020 - 2025`
@@ -29,7 +29,7 @@ Bachelor of Business Information Technology.
 __Security Consultant__, Silensec
 - Monitoring security events received from security tools.
 - Revising alerts escalated by clients and triaging incoming issues.
-- Prioritizing events and determination of their potential risk.
+- Prioritizing events and determination of their associated risk.
 
 `Aug 2018 - Aug 2019`
 __Graduate Teaching Assistant__, Carnegie Mellon University
