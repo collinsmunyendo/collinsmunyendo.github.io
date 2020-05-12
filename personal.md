@@ -4,7 +4,7 @@ title: "Hobbies"
 excerpt: Personal
 ---
 
-"You miss 100% of the shots you don't take" - Wayne Gretzky
+You miss 100% of the shots you don't take - Wayne Gretzky
 
 I play just as hard as I work. I play football and swim. I am also an avid [Chelsea FC](https://www.chelseafc.com/en) fan. Friends and The Office are the greatest ever SitComs :)
 
