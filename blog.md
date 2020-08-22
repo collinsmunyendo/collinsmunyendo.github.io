@@ -3,8 +3,7 @@ layout: page
 title: Blog Posts
 ---
 
-Thanks for stopping by. This is work in progress. Check back after a couple of weeks :)
+Thanks for stopping by. This is still a work in progress. Some of the blog posts I have published elsewhere are:
 
-In the meantime, check out some of my pieces on [Medium](https://medium.com/@collinsmunyendo).
+[Artificial Intelligence in Cybersecurity. Need or Luxury?](https://cyberranges.com/artificial-intelligence-cybersecurity/)
 
-Be sure to also keep an eye on [Silensec](https://www.silensec.com/blog) and [Cyberranges](https://cyberranges.com/) where I will be publishing some pieces very soon.
