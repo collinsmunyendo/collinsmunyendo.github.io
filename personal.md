@@ -15,7 +15,7 @@ I love travelling. Some of the countries I have been to so far are:
 4. __Germany__ - Saarbrücken
 5. __Japan__ - Osaka
 6. __Uganda__ - Busia
-6. __United States__ - California, New York, Washington
+6. __United States__ - California, Oregon, Washington, New York
 7. __United Arab Emirates__ - Dubai
 
 My top 3 destinations for the future are Barbados, Maldives and Argentina. Feel free to hit me up with those random travel plans :)
