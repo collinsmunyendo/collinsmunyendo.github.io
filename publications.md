@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Posts
+title: Publications
 ---
 
 - [Artificial Intelligence in Cybersecurity. Need or Luxury?](https://cyberranges.com/artificial-intelligence-cybersecurity/)
