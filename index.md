@@ -12,6 +12,8 @@ In 2019, I was privileged to attend [HashiConf '19](https://hashiconf.com/) in S
 ## Activities & Interests:
 
 - Mentor and Trainer, Django Girls Kigali
+- Ambassador, Nipe Sauti Africa
+- GREPSEC V Scholar, 2021
 - HashiConf Scholar, 2019
 - Devcon V Scholar, 2019
-- Ambassador, Nipe Sauti Africa
+
