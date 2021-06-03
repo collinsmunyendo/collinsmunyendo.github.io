@@ -2,7 +2,7 @@
 layout: resume
 ---
 ## Summary
-I am a security analyst with professional experience in cybersecurity, network administration and software engineering. I enable organizations secure their digital assets and have vast experience leveraging open source tools such as OSSIM to secure organizations’ networks as well as developing solutions to improve livelihoods in Africa. I am currently interested in studying user security behavior in marginalized groups to improve security design. Also keen on blockchain for social impact.
+I am a security analyst and researcher with professional experience in cybersecurity and software engineering. I enable organizations secure their digital assets as well as develop software solutions that add business value to their operations. I am experienced in leveraging open source tools such as OSSIM and ELK to secure organizations’ networks as well as developing solutions to improve patient flow and support refugees in Africa. I am currently interested in studying and improving security design in underrepresented communities.
 
 ## Education
 `2020 - 2025`
@@ -55,6 +55,6 @@ __Network Engineer__, Kenya Web Limited
 
 
 
-Last updated: August 2020
+Last updated: June 2021
 
 
