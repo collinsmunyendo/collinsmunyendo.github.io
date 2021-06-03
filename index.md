@@ -9,6 +9,8 @@ Prior to joining GW, I obtained my master's degree in Information Technology fro
 
 In 2019, I was privileged to attend [HashiConf '19](https://hashiconf.com/) in Seattle, Washington and [Devcon V](https://archive.devcon.org/) in Osaka, Japan under full ride scholarships where I networked with leading technologists from around the globe leveraging different tools to make the world a better place.
 
+This year, I am excited to be attending [GREPSEC V](https://grepsec.github.io/), a workshop for early-stage graduate students in computer security and privacy, focusing on underrepresented populations.
+
 ## Activities & Interests:
 
 - Mentor and Trainer, [Django Girls Kigali](https://djangogirls.org/kigali/)
