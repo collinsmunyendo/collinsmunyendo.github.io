@@ -8,7 +8,7 @@ You miss 100% of the shots you don't take - Wayne Gretzky
 
 I play just as hard as I work. I love playing football and swimming. I am also an avid [Chelsea FC](https://www.chelseafc.com/en) fan. The Office and Friends are my favorite SitComs.
 
-I love travelling. Some of the countries I have been to so far are:
+I love travelling. Alphabetically, some of the countries I have been to so far are:
 1. __France__ - Paris
 2. __Germany__ - Saarbrücken
 3. __Japan__ - Osaka
