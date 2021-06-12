@@ -12,7 +12,7 @@ I love travelling. Alphabetically, some of the countries I have been to so far a
 1. __France__ - Paris
 2. __Germany__ - Saarbrücken
 3. __Japan__ - Osaka
-4. __Kenya__ - Nairobi, Kisumu, Mombasa, Kakamega, Bungoma, Nyeri, Embu, Machakos, Uasin Gishu, Nandi, Kiambu, Nakuru, Vihiga, Kitui, Baringo, Kajiado, Busia
+4. __Kenya__ - Nairobi, Kisumu, Mombasa, Kakamega, Bungoma, Nyeri, Embu, Machakos, Uasin Gishu, Nandi, Kiambu, Nakuru, Vihiga, Kitui, Baringo, Kajiado, Busia, Makueni
 5. __Rwanda__ - Kigali, Gisenyi, Nyungwe
 6. __Uganda__ - Busia
 7. __United Arab Emirates__ - Dubai
